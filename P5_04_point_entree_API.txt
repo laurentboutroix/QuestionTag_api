@@ -1,0 +1,8 @@
+Point d'entrée de l'API:
+
+https://huggingface.co/spaces/loowaan/Stack_Overflow_tags_generator
+
+Dépôt des fichiers :
+
+https://github.com/laurentboutroix/QuestionTag_api
+
